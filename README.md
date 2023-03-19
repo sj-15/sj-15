@@ -5,7 +5,11 @@
                         height="30"></a>
                 <a href="sj15sourav@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"
                         alt="Gmail" width="30" height="30"></a>
+        
+[![](https://visitcount.itsvg.in/api?id=sj-15In&pretty=true)](https://visitcount.itsvg.in)
          </div>
+         
+ 
 <h3 align="center">
 Competitive Programmer 🧑🏻‍💻
 <br>
@@ -64,8 +68,6 @@ Fullstack Developer 🧑🏻‍🏫
 ![](https://github-readme-stats.vercel.app/api?username=sj-15&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sj-15&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=sj-15In&pretty=true)](https://visitcount.itsvg.in)
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=sj-15&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
