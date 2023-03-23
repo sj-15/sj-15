@@ -8,7 +8,7 @@
         
 [![](https://visitcount.itsvg.in/api?id=sj-15In&pretty=true)](https://visitcount.itsvg.in)
         
-![sourav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sj_15&theme=Dark)
+![Sourav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sj_15&theme=Dark)
          </div>
 <h3 align="center">
 Competitive Programmer 🧑🏻‍💻
