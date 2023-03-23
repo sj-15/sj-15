@@ -7,9 +7,9 @@
                         alt="Gmail" width="30" height="30"></a>
         
 [![](https://visitcount.itsvg.in/api?id=sj-15In&pretty=true)](https://visitcount.itsvg.in)
+        
+![sourav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sj_15&theme=Dark)
          </div>
-         
- 
 <h3 align="center">
 Competitive Programmer 🧑🏻‍💻
 <br>
@@ -65,10 +65,13 @@ Fullstack Developer 🧑🏻‍🏫
 
 <h2 align="center">Current GitHub Stats 📊</h2>
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=sj-15&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sj-15&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=sj-15&theme=jolly&date_format=j%20M%5B%20Y%5D)
+</div>
 
 <h2 align = "center">Thanks for stopping by!</h2>
