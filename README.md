@@ -50,14 +50,20 @@ Fullstack Developer 🧑🏻‍🏫
                     features, and using image
                     processing libraries like
                     Glide or Picasso.</p>
+                    
+## [Multi-player Tic-Tac-Toe game](https://github.com/sj-15/tech_intern23/tree/main/tictactoe)
+
+<p>A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web & Desktop! Features
+Create/Join Room,
+Play Realtime,
+Display Points,
+Round & Game Winner,
+Responsive Glow Themed UI,
+Cross Platform Game</p>
 
 ## [Portfolio](https://github.com/sj-15/Portfolio-App)
 
 <p>Nunc aliquet orci enim, non rhoncus velit semper eu. Sed et mauris orci.</p>
-
-## [Whatsapp Clone](https://github.com/sj-15/whatsapp-clone)
-
-<p>Fusce mattis gravida enim, vitae commodo elit dignissim vitae.</p>
 
 <h2 align="center">What I'm Learning</h2>
 <p>Everday I try to learn something new. Currently I'm learning JavaScript from scratch. Also studying about DBMS and implementing using MySql.
