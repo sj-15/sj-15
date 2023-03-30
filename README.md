@@ -63,7 +63,7 @@ Cross Platform Game</p>
 
 ## [Portfolio](https://github.com/sj-15/Portfolio-App)
 
-<p>Nunc aliquet orci enim, non rhoncus velit semper eu. Sed et mauris orci.</p>
+<p>Here, I showcase my Skills, Experience, Projects, Acievments and giving details About Me and my Contacts..</p>
 
 <h2 align="center">What I'm Learning</h2>
 <p>Everday I try to learn something new. Currently I'm learning JavaScript from scratch. Also studying about DBMS and implementing using MySql.
