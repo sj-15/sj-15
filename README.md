@@ -16,9 +16,9 @@ Competitive Programmer 🧑🏻‍💻
 Fullstack Developer 🧑🏻‍🏫
 </h3>
 <h2 align="center">About Me</h2>
-            <p>Currently in 3rd year pursuing B. Tech in Computer Science & Engineering from Dr. B. C. Roy Engineering
+            <p>Currently in final year student pursuing B. Tech in Computer Science & Engineering from Dr. B. C. Roy Engineering
                 College, Durgapur. I'm the vice president of iCoders' the official tech club of our college. I'm
-                passionate about Competitive Coding, and enjoy solving puzzles like sudoku, rubix cube, etc. in the free
+                passionate about Competitive Coding, and enjoy solving puzzles like Sudoku, Rubix cube, etc. in the free
                 time.</p>
 <h2 align="center">Tech Stack</h2>
         <div class="tech-stack" align="center">
@@ -39,7 +39,11 @@ Fullstack Developer 🧑🏻‍🏫
 
 ## [!non](https://github.com/sj-15/not_non/tree/main/not_non)
 
-<p>A chatting platform: that two unknown users talk to each other with same interests without sharing any kind of personal information like name, address, email, phone no, etc.</p>
+<p>Addressed a critical need in society by providing a solution to approximately 60% of people who experience
+fear of public speaking and 25-30% who experience anxiety sharing their opinions in public
+Users can connect with others who share similar interests.
+Without revealing any personal information such as their name, location, phone number, or email
+An innovative platform offers personal chat, group chat, and chat with AI as its features.</p>
 
 ## [tashveer](https://github.com/sj-15/tech_intern23/tree/main/tashveer)
 
