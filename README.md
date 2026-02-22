@@ -5,10 +5,6 @@
                         height="30"></a>
                 <a href="sj15sourav@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"
                         alt="Gmail" width="30" height="30"></a>
-        
-[![](https://visitcount.itsvg.in/api?id=sj-15In&pretty=true)](https://visitcount.itsvg.in)
-        
-![Sourav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sj_15&theme=Dark)
          </div>
 <h3 align="center">
 Competitive Programmer 🧑🏻‍💻
